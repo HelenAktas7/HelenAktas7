@@ -19,8 +19,6 @@
 ---
 
 
-### 🛠️ Teknolojiler & Yetenekler (Tech Stack)
-
 <div align="center">
 
 | Alan | Teknolojiler ve Araçlar |
