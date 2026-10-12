@@ -18,13 +18,6 @@
 
 ---
 
-### 🚀 Hakkımda (About Me)
-
-- 💻 **Neler Yapıyorum?** Modern ve ölçeklenebilir arka yüz (backend) servisleri, veri odaklı Python çözümleri ve kurumsal .NET uygulamaları geliştiriyorum.
-- 🎯 **İlgi Alanlarım:** Dağıtık Sistemler (Distributed Systems), API Tasarımı, Veritabanı Optimizasyonu ve Temiz Kod (Clean Code) prensipleri.
-- 📚 **Sürekli Gelişim:** Yeni teknolojileri deneyimlemeyi, karmaşık problemleri zarif mimarilerle çözmeyi seviyorum.
-
----
 
 ### 🛠️ Teknolojiler & Yetenekler (Tech Stack)
 
@@ -42,14 +35,7 @@
 
 ---
 
-### 📌 Çalışma ve Proje Alanlarım
 
-- 🌐 **Backend Geliştirme (.NET & Python):** Güvenli, dokümante edilmiş (Swagger/OpenAPI) ve yüksek performanslı RESTful API servisleri.
-- 🔄 **Olay Güdümlü & Dağıtık Mimariler:** RabbitMQ, Polly ve Redis ile hata toleranslı, dayanıklı arka plan mesajlaşma sistemleri.
-- 📊 **Veri & Otomasyon (Python):** Veri işleme, betik geliştirme ve iş akışı otomasyonları.
-- 🏗️ **Yazılım Prensipleri:** SOLID prensipleri, Design Patterns, Unit Testing ve Clean Architecture odaklı kod geliştirme.
-
----
 
 ### 📊 GitHub İstatistikleri
 
